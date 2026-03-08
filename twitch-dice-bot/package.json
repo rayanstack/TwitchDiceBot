@@ -1,0 +1,12 @@
+{
+  "name": "twitch-dice-bot",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
